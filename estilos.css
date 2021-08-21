@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  text-align: center;
+  background-color: skyblue;
+}
+html, body {
+  height: 100%;
+}
+.wrapper {
+  min-height: calc(100% - 4rem);
+}
+.footer {
+  height: 4rem;
+  background-color: red;
+
+}
